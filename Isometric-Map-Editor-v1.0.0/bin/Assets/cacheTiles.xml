@@ -1,0 +1,4 @@
+<cacheTiles bgOffsetX="-405" bgOffsetY="-195">
+  <tile type="fixed" id="1" name="123[revision.png" areaC="4" areaR="5" heigth="248" offsetX="-138" offsetY="-110"/>
+  <tile type="fixed" id="3" name="vishka.png" areaC="3" areaR="3" heigth="263" offsetX="-70" offsetY="-176"/>
+</cacheTiles>
